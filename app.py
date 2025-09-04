@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import numpy as np
-
+ 
 # --- File Paths ---
 MODEL_PATH = 'car_price_predictoR.joblib'
 DATA_PATH = 'cars24_CLeaned_dataset.csv'
