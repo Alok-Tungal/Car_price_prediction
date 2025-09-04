@@ -4,7 +4,7 @@ import joblib
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-import numpy as np
+import numpy as np 
  
 # --- File Paths ---
 MODEL_PATH = 'car_price_predictoR.joblib'
